@@ -45,7 +45,7 @@ curso = "Curso de python"
 nome_curso = curso
 valor1, valor2 = 200,200
 
-curso is nome_curso         # Is compara de o objeto A(curso) e o objeto B(nome_curso) estão no mesmo local da memoria
+curso is nome_curso         # Is compara se o objeto A(curso) e o objeto B(nome_curso) estão no mesmo local da memoria
 curso is not nome_curso     # negacao ou seja false
 valor1 is valor2            # compara ambos as variaveis e retorna true
 
